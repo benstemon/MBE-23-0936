@@ -193,7 +193,7 @@ Estimated site concordance factors and gene concordance factors in IQtree. See [
 
 From this, used the .log file to match locus IDs (10kb trees) to their site concordance factors score. First, I copied the output from the IQtree.log file containing identification into a new .txt file, then used `grep -v '^WARNING' 10kbsource_10kbref.log > 10kbsource_cf_site_ids.txt` to generate an output text file with only this information.
 
-* This information will be plotted later, in the same script as plots for TWISST internal branch plots. (To jump ahead, see [`plot_twisst_IB-test_and_CFs_IB.R`](twisst_internal_branches/plot_twisst_IB-test_and_CFs_IB.R)) 
+* This information will be plotted later, in the same script as plots for TWISST internal branch plots. (To jump ahead, see [`TWISST_2.plot_twisst_IB-test_and_CFs_IB.R`](5.TWISST/TWISST_2.plot_twisst_IB-test_and_CFs_IB.R)) 
 
 
 
