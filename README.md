@@ -1,6 +1,6 @@
 # Ecological diversification in an adaptive radiation of plants: the role of de novo mutation and introgression
 
-This data set corresponds to Stone and Wessinger 2023: "Ecological diversification in an adaptive radiation of plants: the role of de novo mutation and introgression". [`DOI: 10.1101/2023.11.01.565185`](https://www.biorxiv.org/content/10.1101/2023.11.01.565185v1.full.pdf+html)
+This data set corresponds to Stone and Wessinger 2023: "Ecological diversification in an adaptive radiation of plants: the role of de novo mutation and introgression". [`DOI: 10.1093/molbev/msae007`]([https://www.biorxiv.org/content/10.1101/2023.11.01.565185v1.full.pdf+html](https://academic.oup.com/mbe/article/41/1/msae007/7564791))
 
 The link to supplemental data on FigShare is here: [`Dataset DOI: 10.6084/m9.figshare.24480499`](https://figshare.com/articles/dataset/Data_from_Ecological_diversification_in_an_adaptive_radiation_of_plants_the_role_of_de_novo_mutation_and_introgression/24480499)
 
